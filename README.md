@@ -1,2 +1,2 @@
 # programming01
-This is general repo for pragramming related stuffs
+This is general repo for programming related stuffs
